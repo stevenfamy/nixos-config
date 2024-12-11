@@ -92,6 +92,7 @@
   #  wget
 	git
 	git-crypt
+	kitty
 	gnupg
 	wget
 	htop
